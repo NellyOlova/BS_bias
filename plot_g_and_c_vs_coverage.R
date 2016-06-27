@@ -41,7 +41,7 @@ plot.relationship <- function(letter) {
   
   split.all.sums[!is.na(split.all.sums[,1]),] -> split.all.sums
   
-  plot(density(as.integer(all.counts[[letter]]),adjust=3))
+  plot(density(as.integer(all.counts[[letter]]),adjust=5))
   
   library(RColorBrewer)
   
