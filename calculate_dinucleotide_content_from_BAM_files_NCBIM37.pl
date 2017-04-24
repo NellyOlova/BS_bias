@@ -167,7 +167,7 @@ sub print_all_fastA_sequences{
 #  my $cwd = getcwd();
 #  ### reading in and storing the mouse genome in the %chromosomes hash
 #  # chdir ("/bi/scratch/Genomes/Mouse/NCBIM37/") or die "Can't move to folder /bi/scratch/Genomes/Mouse/NCBIM37: $!";
-#  chdir ("/bi/scratch/Genomes/Harpegnathos_saltator/HS3.3/") or die; 
+#  chdir ("/bi/scratch/Genomes/Mouse/NCBIM37/") or die; 
 #  warn "Now reading in and storing sequence information of the mouse genome (build NCBIM37)\n\n";
 #  while (my $chromosome_filename = <*.fa>){
  #     my $chromosome_number = chromosome_number($chromosome_filename);
