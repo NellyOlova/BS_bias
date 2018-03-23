@@ -18,3 +18,5 @@ Conclusions: We show that amplification-free library preparation is the least bi
 with amplification, the choice of bisulfite conversion protocol or polymerase can significantly minimize artefacts. To aid
 with the quality assessment of existing WGBS datasets, we have integrated a bias diagnostic tool in the
 Bismark package and offer several approaches for consideration during the preparation and analysis of WGBS datasets.
+
+Link to manuscript: http://rdcu.be/JaqP
